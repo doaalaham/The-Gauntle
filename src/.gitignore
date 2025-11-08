@@ -1,0 +1,11 @@
+# ملفات IntelliJ
+.idea/
+*.iml
+
+# ملفات build
+out/
+target/
+
+# ملفات نظام التشغيل
+.DS_Store
+Thumbs.db
