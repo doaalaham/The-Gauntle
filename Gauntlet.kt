@@ -1,4 +1,4 @@
- // Solutions for The Gauntlet - Week 1 (First 5 Questions)
+ // Solutions for The Gauntlet - Week 1 (First 7 Questions)
 
 fun main() {
 
